@@ -7,3 +7,7 @@ Can have r code
 ```{r}
 print("r code")
 ```
+
+
+This is a great practice! 
+**How do you think about it?**
